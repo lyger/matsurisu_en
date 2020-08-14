@@ -1,3 +1,3 @@
 ## Matsurisu
 
-https://lyger.github.io/matsurisu/
+https://lyger.github.io/matsurisu_en/
